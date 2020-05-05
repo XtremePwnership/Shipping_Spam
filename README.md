@@ -5,7 +5,7 @@ Simply download everything from the SourceCode folder, make minor changes in eac
 
 In case you're following along with the YouTube video tutorial (url), below are the codes which you can copy/paste.
 
-<h3 id="1">Scope URL @ 4:45: `https://www.googleapis.com/auth/gmail.settings.basic` </h3>
+<h3 id="1">Scope URL @ 4:45:</h3> `https://www.googleapis.com/auth/gmail.settings.basic`
 
 <h3 id="2">Code @ 8:32:</h3>
 
