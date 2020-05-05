@@ -31,4 +31,4 @@ input, inpWtoutOr = EmFmt(txt)
         exit()
 ```
 
-<h3 id="4">Code @ :</h3>
+Hope you find the code useful!
