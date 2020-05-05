@@ -5,9 +5,9 @@ Simply download everything from the SourceCode folder, make minor changes in eac
 
 In case you're following along with the YouTube video tutorial (url), below are the codes which you can copy/paste.
 
-<h3 id="1">Scope URL @ 4:45: `https://www.googleapis.com/auth/gmail.settings.basic`</h3>
+<h3 id="1">Scope URL @ 4:45: <p>`https://www.googleapis.com/auth/gmail.settings.basic`</p </h3>
 
-<h2 id="2">Code @ 8:32:</h2>
+<h3 id="2">Code @ 8:32:</h3>
 
 ```python
 #Get the existing filter's ID by searching for the Shipping Spam Label's ID & then picking the Filter ID indirectly. Filter ID will keep changing whenever i delete & add a new one, but Filter ID will remain constant until deletion.
