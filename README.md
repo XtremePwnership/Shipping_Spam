@@ -33,7 +33,6 @@ def EmFmt(txt):
         continue #If item does not contain @<> then it is skipped. Names of the email IDs will be skipped by this.
     op = " OR ".join(final)
     return op, final
-
 ```
 
 <h3 id="4">Code @ 12:46:</h3>
