@@ -17,3 +17,16 @@ In case you're following along with the YouTube video tutorial (url), below are 
             currFilId =  f['id']
             currEmIds = f['criteria']['from']
 ```
+
+<3 id="3">Code @ 12:46:</h3>
+
+```
+input, inpWtoutOr = EmFmt(txt)
+
+    if input != "":
+        newEmIds = currEmIds + " OR " + input
+    else:
+        newEmIds=currEmIds
+        return 'No new emails supplied.'
+        exit()
+```
