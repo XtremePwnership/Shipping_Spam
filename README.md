@@ -18,7 +18,7 @@ In case you're following along with the YouTube video tutorial (url), below are 
             currEmIds = f['criteria']['from']
 ```
 
-<3 id="3">Code @ 12:46:</h3>
+<h3 id="3">Code @ 12:46:</h3>
 
 ```
 input, inpWtoutOr = EmFmt(txt)
