@@ -1,4 +1,4 @@
-# Shipping_Spam: Update Gmail filters using Python
+# Shipping_Spam: Update Gmail filters using Python & Telegram
 This code helps you make add new email IDs to the from field of an existing Gmail filter using a Telegram Bot. 
 
 Simply download everything from the SourceCode folder, make minor changes in each file as instructed, & you're good to go!
