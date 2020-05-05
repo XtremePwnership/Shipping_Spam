@@ -22,7 +22,7 @@ In case you're following along with the YouTube video tutorial, below are the co
             currEmIds = f['criteria']['from']
 ```
 
-<h3 id="3">Code @ 11:28</h3>
+<h3 id="3">Code @ 11:28:</h3>
 
 ```
 def EmFmt(txt):
