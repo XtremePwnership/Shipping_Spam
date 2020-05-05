@@ -107,46 +107,4 @@ sfd
 sfd
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a name="#ts1">Scope URL @ 4:45: `https://www.googleapis.com/auth/gmail.settings.basic`</a>
+<p id="#ts1">Scope URL @ 4:45: `https://www.googleapis.com/auth/gmail.settings.basic`</p>
