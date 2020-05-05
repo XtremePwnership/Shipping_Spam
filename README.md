@@ -16,5 +16,6 @@ In case you're following along with the YouTube video tutorial (url), below are 
     for f in filters['filter']:
         if f['action'].get('addLabelIds',"") == ['INSERT_YOUR_LABELID_HERE']:
             currFilId =  f['id']
-            currEmIds = f['criteria']['from']            
+            currEmIds = f['criteria']['from']
+            
 ```
