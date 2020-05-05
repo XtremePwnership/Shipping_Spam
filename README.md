@@ -3,7 +3,9 @@ This code helps you make add new email IDs to the from field of an existing Gmai
 
 Simply download everything from the SourceCode folder, make minor changes in each file as instructed, & you're good to go!
 
-In case you're following along with the YouTube video tutorial (url), below are the codes which you can copy/paste.
+In case you're following along with the YouTube video tutorial, below are the codes which you can copy/paste.
+
+<a href="https://www.youtube.com/watch?v=uFrAssWMaC8&feature=youtu.be"><h3>YouTube Tutorial Part 1/2</h3></a>
 
 <h3 id="1">Scope URL @ 4:45: https://www.googleapis.com/auth/gmail.settings.basic</h3>
 
